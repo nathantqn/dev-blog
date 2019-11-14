@@ -1,5 +1,6 @@
 backend:
-  name: test-repo
+  name: github
+  repo: nenjamin2405/dev-blog
 
 media_folder: static/assets
 public_folder: assets
